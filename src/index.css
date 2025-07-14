@@ -75,6 +75,7 @@
     'cell3'
     'cell4'
     'cell5';
+  transition: all 0.3s ease;
 }
 
 @media (min-width: 48rem) {
