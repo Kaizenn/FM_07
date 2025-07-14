@@ -24,7 +24,7 @@ export default function TestimonialsCard({ id, image, name, title, text, text2, 
       <div className="relative z-1 mb-4 flex items-center gap-4">
         <div>
           <img
-            className="max-w-7 rounded-full border-2 border-[rgba(255,255,255,0.5)]"
+            className="max-w-8 rounded-full border-2 border-[rgba(255,255,255,0.5)]"
             src={image}
             alt={name}
           />
